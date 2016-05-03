@@ -1,4 +1,4 @@
-from sortable import Sortable
+from sortable import sortable as Sortable
 
 
 def sortable_helper(request, objects, fields=None):
