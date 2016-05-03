@@ -1,4 +1,4 @@
-from sortable import Sortable
+from dango_sortable.sortable import Sortable
 
 
 def sortable_helper(request, objects, fields=None):
